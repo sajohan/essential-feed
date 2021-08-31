@@ -81,8 +81,8 @@
 		04372F532624E819005FBE0E /* EssentialFeed */ = {
 			isa = PBXGroup;
 			children = (
-				04372F7E2638ACEB005FBE0E /* Feed API */,
 				04372F752624EA50005FBE0E /* FeedFeature */,
+				04372F7E2638ACEB005FBE0E /* Feed API */,
 				04372F542624E819005FBE0E /* EssentialFeed.h */,
 				04372F552624E819005FBE0E /* Info.plist */,
 			);
